@@ -1,7 +1,7 @@
-heroku-cd
+circle-demoapp
 =========
 
-This project is an example of an application that can be continuously delivered to Heroku through a pipeline based on staging and production environments.
+This project is an example of an application that can be continuously delivered to Heroku through a pipeline based on staging and production environments. (only modified by me for learning purpose)
 
 ##The Video
 A step-by-step walkthrough video detailing how to set the project up on [CircleCI](https://circleci.com/) and Heroku is HERE.
