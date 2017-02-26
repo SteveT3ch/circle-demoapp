@@ -3,3 +3,7 @@ deployment:
     branch: master
     heroku:
       appname: circle-demoapp
+  staging:
+    branch: circle-staging
+    heroku:
+      appname: circle-staging-demoapp
